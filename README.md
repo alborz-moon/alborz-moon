@@ -2,7 +2,7 @@
 - 👀 I'm interested in improving myself and learning new things.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on website designing.
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/alborz-moon-657515b0/
 
 <!---
 alborz-moon/alborz-moon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
